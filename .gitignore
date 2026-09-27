@@ -329,3 +329,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large data files (exceed GitHub 100MB limit; re-downloadable)
+*.parquet
+*.parquet.brotli
